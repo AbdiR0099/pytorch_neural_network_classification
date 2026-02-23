@@ -15,7 +15,7 @@ In this project, I built neural networks from scratch to tackle two primary type
 
 The core focus of this repository is understanding how to process raw model outputs (logits), choose the correct loss functions based on the problem type, and overcome underfitting by introducing non-linear activation functions.
 
-## 🚀= Key Concepts & Workflow
+##  Key Concepts & Workflow
 
 ### 1. The Underfitting Problem & Non-Linearity
 I began by generating a dataset of two concentric circles. Initially, a purely linear model failed miserably at classifying the dots, achieving only 50% accuracy (equivalent to random guessing). Visualizing the decision boundary revealed the issue: the model was trying to draw a straight line through circular data.
@@ -64,7 +64,7 @@ Beyond standard loss and accuracy, I explored industry-standard evaluation metri
 * **Metrics:** TorchMetrics
 * **Data Visualization:** Matplotlib
 
-## 💻 Getting Started (Installation)
+##  Getting Started (Installation)
 
 To clone and run this project locally:
 
