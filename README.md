@@ -26,6 +26,8 @@ I began by generating a dataset of two concentric circles. Initially, a purely l
 
 To solve this, I introduced the **ReLU (Rectified Linear Unit)** activation function between the hidden layers. By combining linear operations with non-linear activation functions, the neural network gained the capacity to draw complex, curved decision boundaries, drastically improving accuracy.
 
+![Applying ReLU](visualizations/ReLU.png)
+
 
 
 ### 2. Demystifying Model Outputs (Logits to Labels)
